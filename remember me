@@ -1,2 +1,4 @@
 mvn clean install "-Dskip.tests=true"
 mvn spring-boot:run
+install mysql with username root password Ashitha16
+use database coss
