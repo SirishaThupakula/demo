@@ -1,0 +1,2 @@
+mvn clean install "-Dskip.tests=true"
+mvn spring-boot:run
